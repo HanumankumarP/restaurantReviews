@@ -78,3 +78,5 @@ The goal of this poject is to
 + Created manifest.json file with few properties and also compressed images with flexable sizes. Included the images paths in `manifest.json` file.
 + included `manifest.json` and different images for favicons in index.html.
 
+**Note**: I run this by using 200 ok server. you can run it by using python server. but you have to change the path in `dbhelper.js` file
+
