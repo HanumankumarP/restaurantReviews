@@ -43,8 +43,7 @@ The goal of this poject is to
 
 ## Running the Application
 
-+ I forked the starter code to my GitHub account which was given by the udacity.
-+ Cloned this repository to my personal computer by using `git clone` command.
++ Cloned the repository which was provided by udacity to my personal computer by using `git clone` command.
 + Installed Python in my local system by using `sudo apt-get install python3` command. Changed the directory to my downloaded project
 + Run the python http server by using `python -m SimpleHTTPServer` command it took `8000` as port.
 + FInally opened `localhost:8000` url in my browser to check the output.
@@ -77,6 +76,7 @@ The goal of this poject is to
 + Created `sw.js` and developed events like **install**, **fetch**.
 + Created manifest.json file with few properties and also compressed images with flexable sizes. Included the images paths in `manifest.json` file.
 + included `manifest.json` and different images for favicons in index.html.
++ I manipulated the code in `dbhelper.js` to work with any server. Committed the url with port and assigned direct path. 
 
 **Note**: I run this by using 200 ok server. you can run it by using python server. but you have to change the path in `dbhelper.js` file
 
